@@ -1,7 +1,7 @@
 ## merge_pdf_rpm_linux
 
 
-#### Command line code to combine two PDF files, using RPM linux such as Fedora, Redhat, Centos, etc.:
+#### Command line code to combine two PDF files, using RPM linux such as Fedora, Redhat, Centos, etc.
 
 # Install
 
